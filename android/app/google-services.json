@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339054675940",
+    "project_id": "ut7dinfirebase",
+    "storage_bucket": "ut7dinfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339054675940:android:896e95081a47aa2e4729f1",
+        "android_client_info": {
+          "package_name": "com.example.ut6_multipantalla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqZFD7Y5BYOCfmAEyVLyGt7Wm-bejJb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
